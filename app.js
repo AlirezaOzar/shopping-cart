@@ -215,3 +215,4 @@ confirm.addEventListener("click", () => {
     alert("modal is empty ...");
     closeModal();
 })
+console.log("reza")
